@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/jorgv/Desktop/Repositories_GH/MLOps_Finance_Project/mlruns/696318610903603071/3841d465650e4932830adacd486c7899/artifacts
+end_time: 1779616975719
+entry_point_name: ''
+experiment_id: '696318610903603071'
+lifecycle_stage: active
+run_id: 3841d465650e4932830adacd486c7899
+run_name: valuable-quail-614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779616971896
+status: 3
+tags: []
+user_id: jorge
