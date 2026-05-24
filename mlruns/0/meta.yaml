@@ -1,6 +1,6 @@
-artifact_location: file:///mnt/c/Users/jorgv/Desktop/Repositories_GH/MLOps_Finance_Project/mlruns/0
-creation_time: 1779616971660
+artifact_location: file:///mnt/c/Users/jorgv/Desktop/Repositories_GH/finance-mlops/mlruns/0
+creation_time: 1779629260886
 experiment_id: '0'
-last_update_time: 1779616971660
+last_update_time: 1779629260886
 lifecycle_stage: active
 name: Default

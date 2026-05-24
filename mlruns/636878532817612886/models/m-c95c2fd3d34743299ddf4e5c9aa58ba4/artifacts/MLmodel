@@ -1,4 +1,4 @@
-artifact_path: file:///mnt/c/Users/jorgv/Desktop/Repositories_GH/MLOps_Finance_Project/mlruns/696318610903603071/models/m-8033eb9774dc444399e80b7ecf5273c5/artifacts
+artifact_path: file:///mnt/c/Users/jorgv/Desktop/Repositories_GH/finance-mlops/mlruns/636878532817612886/models/m-c95c2fd3d34743299ddf4e5c9aa58ba4/artifacts
 flavors:
   python_function:
     env:
@@ -14,9 +14,9 @@ flavors:
     serialization_format: cloudpickle
     sklearn_version: 1.6.1
 mlflow_version: 3.1.4
-model_id: m-8033eb9774dc444399e80b7ecf5273c5
+model_id: m-c95c2fd3d34743299ddf4e5c9aa58ba4
 model_size_bytes: 104343
-model_uuid: m-8033eb9774dc444399e80b7ecf5273c5
+model_uuid: m-c95c2fd3d34743299ddf4e5c9aa58ba4
 prompts: null
-run_id: 3841d465650e4932830adacd486c7899
-utc_time_created: '2026-05-24 10:02:53.427989'
+run_id: 0714b98aa85d4164bdcf6ab24520da0f
+utc_time_created: '2026-05-24 13:27:42.826678'

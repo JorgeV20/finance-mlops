@@ -1,0 +1,10 @@
+artifact_location: file:///mnt/c/Users/jorgv/Desktop/Repositories_GH/finance-mlops/mlruns/636878532817612886/models/m-c95c2fd3d34743299ddf4e5c9aa58ba4/artifacts
+creation_timestamp: 1779629262294
+experiment_id: '636878532817612886'
+last_updated_timestamp: 1779629265618
+model_id: m-c95c2fd3d34743299ddf4e5c9aa58ba4
+model_type: null
+name: model
+source_run_id: 0714b98aa85d4164bdcf6ab24520da0f
+status: 2
+status_message: null
