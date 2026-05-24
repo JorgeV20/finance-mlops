@@ -26,7 +26,7 @@ jobs:
           apptainer-version: 1.3.0
           
       - name: Build Apptainer Image
-        run: apptainer build --fakeroot finance-api.sif finance-api.def
+        run: sudo apptainer build finance-api.sif finance-api.def
         
       - name: Upload Container Artifact
         uses: actions/upload-artifact@v4
